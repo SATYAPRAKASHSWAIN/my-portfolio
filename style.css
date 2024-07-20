@@ -49,6 +49,9 @@ body {
 .navbar a:hover {
   color: #0ef;
 }
+
+body {
+}
 .home {
   position: relative;
   width: 100%;
