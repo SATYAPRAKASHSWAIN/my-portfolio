@@ -666,6 +666,7 @@ form textarea {
   background: rgb(7, 85, 91);
   font-weight: 300;
   margin-top: 70px;
+  font-family: "Lucida Console", "Courier New", monospace;
 }
 .top {
   position: fixed;
