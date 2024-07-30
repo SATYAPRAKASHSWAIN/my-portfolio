@@ -724,3 +724,7 @@ form textarea {
     opacity: 1;
   }
 }
+input[type="file"] {
+  background: transparent;
+  padding-left: 0;
+}
